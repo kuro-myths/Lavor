@@ -1,4 +1,4 @@
-<!-- 🌸 Banner melengkung dengan animasi -->
+<!-- 🌸 Banner melengkung dengan animasi (atas) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=header&text=Aeri%20Lavor&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
 </p>
@@ -92,4 +92,9 @@ php artisan serve
   Dibuat dengan ❤️ di Kerajaan <strong>Aeri Lavor</strong><br>
   Terinspirasi dari Kuro + Laravel<br><br>
   🏰 Semoga perisai ini melindungi setiap perjalananmu 🛡️
+</p>
+
+<!-- 🌸 Banner melengkung dengan animasi (bawah) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer&text=Finis%20Aeri%20Lavor&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=70">
 </p>
